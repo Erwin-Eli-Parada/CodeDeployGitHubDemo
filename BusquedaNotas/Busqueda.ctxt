@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Busqueda
+comment0.text=\r\n\ Esta\ clase\ define\ como\ buscar\ una\ "nota"\ en\ un\ txt\ que\ guardara\ los\ datos\r\n\ @author\:\ Parada\ Martinez\ Erwin\ Eli\r\n\ @version\:\ 29/11/2019\r\n
+comment1.params=cadena\ dato
+comment1.target=java.lang.String\ busqueda(java.lang.String,\ java.lang.String)
+comment1.text=\ m\u00E9todo\ que\ realiza\ la\ busqueda\ de\ un\ dato\ en\ una\ cadena\r\n\ \ @param\ cadena\ La\ cadena\ en\ la\ que\ se\ va\ a\ buscar\ coincidencias\r\n\ \ @param\ dato\ El\ dato\ define\ el\ string\ a\ encontrar\r\n\ \ @return\ Un\ substring\ donde\ se\ encontro\ la\ coincidencia\r\n
+comment2.params=nombre
+comment2.target=java.lang.String\ leerarchivo(java.lang.String)
+comment2.text=\ m\u00E9todo\ que\ realiza\ la\ lectura\ de\ un\ archivo\ bajo\ determinado\ nombre\r\n\ \ @param\ nombre\ que\ define\ el\ nombre\ del\ archivo\ del\ cual\ se\ va\ a\ leer\r\n\ \ @throw\ Una\ IOException\r\n\ \ @return\ Un\ string\ que\ guarda\ todo\ el\ archivo\ si\ hay\ archivo,\ en\ caso\ contrario\ retorna\ null\r\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\ m\u00E9todo\ main\ para\ probar\ el\ codigo\r\n\ \ @param\ Array\ String\ de\ argumentos\r\n
+numComments=4
